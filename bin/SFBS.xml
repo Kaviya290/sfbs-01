@@ -1,0 +1,2500 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SFBS
+</name>
+</assembly>
+<members>
+<member name="F:SFBS.SFBS_StudentMaster.studenthead">
+	<summary>
+studenthead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StudentMaster.form_studentmaster">
+	<summary>
+form_studentmaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StudentMaster.sfbs_studentclg">
+	<summary>
+sfbs_studentclg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StudentMaster.sfbs_studenttitle">
+	<summary>
+sfbs_studenttitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StudentMaster.studentcontent">
+	<summary>
+studentcontent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_regcontain">
+	<summary>
+panel_regcontain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_adminregsession">
+	<summary>
+panel_adminregsession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_regtype">
+	<summary>
+panel_regtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_adminhomeseshead">
+	<summary>
+lbl_adminhomeseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regtype">
+	<summary>
+lbl_regtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regcol">
+	<summary>
+lbl_regcol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regtype">
+	<summary>
+radio_regtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_regdept">
+	<summary>
+panel_regdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptHead">
+	<summary>
+lbl_regdeptHead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptcourse">
+	<summary>
+lbl_regdeptcourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regcol4">
+	<summary>
+lbl_regcol4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regdeptcourse">
+	<summary>
+radio_regdeptcourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptcourse">
+	<summary>
+valid_regdeptcourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptId">
+	<summary>
+lbl_regdeptId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regcol1">
+	<summary>
+lbl_regcol1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regdeptId">
+	<summary>
+txt_regdeptId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptchk">
+	<summary>
+lbl_regdeptchk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptId">
+	<summary>
+valid_regdeptId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptidformat">
+	<summary>
+valid_regdeptidformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptName">
+	<summary>
+lbl_regdeptName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regcol2">
+	<summary>
+lbl_regcol2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regdeptName">
+	<summary>
+txt_regdeptName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptName">
+	<summary>
+valid_regdeptName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptformat">
+	<summary>
+valid_regdeptformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptStaff">
+	<summary>
+lbl_regdeptStaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regcol3">
+	<summary>
+lbl_regcol3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regdeptStaff">
+	<summary>
+txt_regdeptStaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regdeptStaff">
+	<summary>
+valid_regdeptStaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstaffRange">
+	<summary>
+valid_regstaffRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.btn_regdept">
+	<summary>
+btn_regdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regdeptmsg">
+	<summary>
+lbl_regdeptmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_regstaff">
+	<summary>
+panel_regstaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_sthead">
+	<summary>
+lbl_sthead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcour">
+	<summary>
+lbl_regstcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol9">
+	<summary>
+lbl_regstcol9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regstcour">
+	<summary>
+radio_regstcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_radioregstcour">
+	<summary>
+valid_radioregstcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstdept">
+	<summary>
+lbl_regstdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol4">
+	<summary>
+lbl_regstcol4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.ddl_regstdept">
+	<summary>
+ddl_regstdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_dll_staffdept">
+	<summary>
+valid_dll_staffdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_depttotstaff">
+	<summary>
+lbl_depttotstaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_deptentstaff">
+	<summary>
+lbl_deptentstaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_stafffilled">
+	<summary>
+lbl_stafffilled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstname">
+	<summary>
+lbl_regstname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol1">
+	<summary>
+lbl_regstcol1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstname">
+	<summary>
+txt_regstname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstname">
+	<summary>
+valid_regstname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstnameformat">
+	<summary>
+valid_regstnameformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstgender">
+	<summary>
+lbl_regstgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol2">
+	<summary>
+lbl_regstcol2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regstgender">
+	<summary>
+radio_regstgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstgender">
+	<summary>
+valid_regstgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstdes">
+	<summary>
+lbl_regstdes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol3">
+	<summary>
+lbl_regstcol3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstdes">
+	<summary>
+txt_regstdes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstdes">
+	<summary>
+valid_regstdes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstdesformat">
+	<summary>
+valid_regstdesformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstphone">
+	<summary>
+lbl_regstphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol7">
+	<summary>
+lbl_regstcol7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstmbl">
+	<summary>
+txt_regstmbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstphonecheck">
+	<summary>
+lbl_regstphonecheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstmbl">
+	<summary>
+valid_regstmbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstmblformat">
+	<summary>
+valid_regstmblformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstdoj">
+	<summary>
+lbl_regstdoj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol5">
+	<summary>
+lbl_regstcol5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstdoj">
+	<summary>
+txt_regstdoj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstdoj">
+	<summary>
+valid_regstdoj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstexp">
+	<summary>
+lbl_regstexp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstcol6">
+	<summary>
+lbl_regstcol6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstexp">
+	<summary>
+txt_regstexp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.btn_regstadd">
+	<summary>
+btn_regstadd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstmsg">
+	<summary>
+lbl_regstmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.panel_regstudent">
+	<summary>
+panel_regstudent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuhead">
+	<summary>
+lbl_regstuhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuname">
+	<summary>
+lbl_regstuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol2">
+	<summary>
+lbl_regstucol2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstuname">
+	<summary>
+txt_regstuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuname">
+	<summary>
+valid_stuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stunameformat">
+	<summary>
+valid_stunameformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuid">
+	<summary>
+lbl_regstuid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol1">
+	<summary>
+lbl_regstucol1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstuid">
+	<summary>
+txt_regstuid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuidchk">
+	<summary>
+lbl_regstuidchk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuid">
+	<summary>
+valid_stuid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuidformat">
+	<summary>
+valid_stuidformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstugender">
+	<summary>
+lbl_regstugender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol3">
+	<summary>
+lbl_regstucol3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regstugender">
+	<summary>
+radio_regstugender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stugender">
+	<summary>
+valid_stugender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucourse">
+	<summary>
+lbl_regstucourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol11">
+	<summary>
+lbl_regstucol11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.radio_regstucourse">
+	<summary>
+radio_regstucourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstucourse">
+	<summary>
+valid_regstucourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstudept">
+	<summary>
+lbl_regstudept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol4">
+	<summary>
+lbl_regstucol4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.ddl_regstudept">
+	<summary>
+ddl_regstudept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_studept">
+	<summary>
+valid_studept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuyear">
+	<summary>
+lbl_regstuyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol5">
+	<summary>
+lbl_regstucol5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.ddl_regstuyear">
+	<summary>
+ddl_regstuyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuyear">
+	<summary>
+valid_stuyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstumail">
+	<summary>
+lbl_regstumail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol6">
+	<summary>
+lbl_regstucol6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstumail">
+	<summary>
+txt_regstumail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstumailchk">
+	<summary>
+lbl_regstumailchk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stumail">
+	<summary>
+valid_stumail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_regstumailformat">
+	<summary>
+valid_regstumailformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuphone">
+	<summary>
+lbl_regstuphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol7">
+	<summary>
+lbl_regstucol7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstuphone">
+	<summary>
+txt_regstuphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstumblchk">
+	<summary>
+lbl_regstumblchk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuphone">
+	<summary>
+valid_stuphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuphoneformat">
+	<summary>
+valid_stuphoneformat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuhead1">
+	<summary>
+lbl_regstuhead1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.chk_regstulogin">
+	<summary>
+chk_regstulogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuuname">
+	<summary>
+lbl_regstuuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol8">
+	<summary>
+lbl_regstucol8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstuuname">
+	<summary>
+txt_regstuuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstuUNchk">
+	<summary>
+lbl_regstuUNchk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuUName">
+	<summary>
+valid_stuUName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuUNameFormat">
+	<summary>
+valid_stuUNameFormat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstupass">
+	<summary>
+lbl_regstupass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol9">
+	<summary>
+lbl_regstucol9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstupass">
+	<summary>
+txt_regstupass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuPass">
+	<summary>
+valid_stuPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucpass">
+	<summary>
+lbl_regstucpass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstucol10">
+	<summary>
+lbl_regstucol10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.txt_regstucpass">
+	<summary>
+txt_regstucpass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_stuCPass">
+	<summary>
+valid_stuCPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.valid_passcompare">
+	<summary>
+valid_passcompare control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.btn_regstuadd">
+	<summary>
+btn_regstuadd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminregistration.lbl_regstumsg">
+	<summary>
+lbl_regstumsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.panel_reportmaincontent">
+	<summary>
+panel_reportmaincontent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.panel_reportsesshead">
+	<summary>
+panel_reportsesshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.panel_reportselection">
+	<summary>
+panel_reportselection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_reportsearchseshead">
+	<summary>
+lbl_reportsearchseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptcour">
+	<summary>
+lbl_rptcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptcol1">
+	<summary>
+lbl_rptcol1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.radio_rptcour">
+	<summary>
+radio_rptcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.txt_hideCourse">
+	<summary>
+txt_hideCourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptdept">
+	<summary>
+lbl_rptdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptcol2">
+	<summary>
+lbl_rptcol2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.ddl_rptdept">
+	<summary>
+ddl_rptdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptname">
+	<summary>
+lbl_rptname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptcol3">
+	<summary>
+lbl_rptcol3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.ddl_rptname">
+	<summary>
+ddl_rptname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptclass">
+	<summary>
+lbl_rptclass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_rptcol4">
+	<summary>
+lbl_rptcol4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.ddl_rptclass">
+	<summary>
+ddl_rptclass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.chart_ratings">
+	<summary>
+chart_ratings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminreport.lbl_chartHead">
+	<summary>
+lbl_chartHead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.panel_logintype">
+	<summary>
+panel_logintype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.sfbs_loginhead">
+	<summary>
+sfbs_loginhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.lbl_logintype">
+	<summary>
+lbl_logintype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.radio_logintype">
+	<summary>
+radio_logintype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.txt_adminname">
+	<summary>
+txt_adminname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.txt_stafflogin">
+	<summary>
+txt_stafflogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.login_namevalid">
+	<summary>
+login_namevalid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.txt_adminpass">
+	<summary>
+txt_adminpass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.login_passvalid">
+	<summary>
+login_passvalid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.btn_login">
+	<summary>
+btn_login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Login.lbl_loginerrmsg">
+	<summary>
+lbl_loginerrmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:SFBS.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:SFBS.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:SFBS.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SFBS.adminhome.panel_adminhomesession">
+	<summary>
+panel_adminhomesession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminhome.panel_home">
+	<summary>
+panel_home control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminhome.lbl_adminhomeseshead">
+	<summary>
+lbl_adminhomeseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.panel_stucontainer">
+	<summary>
+panel_stucontainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.panel_stuloginsession">
+	<summary>
+panel_stuloginsession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stuhomeseshead">
+	<summary>
+lbl_stuhomeseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.panel_studetails">
+	<summary>
+panel_studetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stuhead">
+	<summary>
+lbl_stuhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_sturegid">
+	<summary>
+lbl_sturegid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stuname">
+	<summary>
+lbl_stuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_sturegid">
+	<summary>
+txt_sturegid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stuname">
+	<summary>
+txt_stuname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stugender">
+	<summary>
+lbl_stugender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stucourse">
+	<summary>
+lbl_stucourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stugender">
+	<summary>
+txt_stugender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stucourse">
+	<summary>
+txt_stucourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_studept">
+	<summary>
+lbl_studept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stuyear">
+	<summary>
+lbl_stuyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_studept">
+	<summary>
+txt_studept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stuyear">
+	<summary>
+txt_stuyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stumailid">
+	<summary>
+lbl_stumailid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.lbl_stuphone">
+	<summary>
+lbl_stuphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stumail">
+	<summary>
+txt_stumail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studenthome.txt_stuphone">
+	<summary>
+txt_stuphone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.panel_searchcontain">
+	<summary>
+panel_searchcontain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.panel_adminsearchsession">
+	<summary>
+panel_adminsearchsession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.panel_srchtype">
+	<summary>
+panel_srchtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_adminsearchseshead">
+	<summary>
+lbl_adminsearchseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_searchtype">
+	<summary>
+lbl_searchtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchcol">
+	<summary>
+lbl_srchcol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.radio_searchtype">
+	<summary>
+radio_searchtype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.txt_adminSelectType">
+	<summary>
+txt_adminSelectType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.panel_searchControls">
+	<summary>
+panel_searchControls control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchcour">
+	<summary>
+lbl_srchcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchcoldpt">
+	<summary>
+lbl_srchcoldpt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.radio_admcoursrch">
+	<summary>
+radio_admcoursrch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.txt_adminCourSrch">
+	<summary>
+txt_adminCourSrch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchdept">
+	<summary>
+lbl_srchdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchcol1">
+	<summary>
+lbl_srchcol1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.ddl_srchdept">
+	<summary>
+ddl_srchdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchyear">
+	<summary>
+lbl_srchyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.lbl_srchcol3">
+	<summary>
+lbl_srchcol3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.ddl_srchyear">
+	<summary>
+ddl_srchyear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.btn_search">
+	<summary>
+btn_search control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.panel_searchresults">
+	<summary>
+panel_searchresults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminsearch.grid_searchdata">
+	<summary>
+grid_searchdata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.sudentlogout.panel_stulogout">
+	<summary>
+panel_stulogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.sudentlogout.lbl_stulogoutmsg">
+	<summary>
+lbl_stulogoutmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StaffMaster.staffhead">
+	<summary>
+staffhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StaffMaster.form_staffmaster">
+	<summary>
+form_staffmaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StaffMaster.A3">
+	<summary>
+A3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_StaffMaster.staffcontents">
+	<summary>
+staffcontents control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_AdminMaster.adminhead">
+	<summary>
+adminhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_AdminMaster.form_adminmaster">
+	<summary>
+form_adminmaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_AdminMaster.sfbs_adminclg">
+	<summary>
+sfbs_adminclg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_AdminMaster.sfbs_admintitle">
+	<summary>
+sfbs_admintitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_AdminMaster.admincontent">
+	<summary>
+admincontent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.panel_staffviewmain">
+	<summary>
+panel_staffviewmain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.panel_viewfeedsearch">
+	<summary>
+panel_viewfeedsearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.lbl_stfvseshead">
+	<summary>
+lbl_stfvseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.txt_stffbname">
+	<summary>
+txt_stffbname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.txt_stffbmbl">
+	<summary>
+txt_stffbmbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.txt_stffbcour">
+	<summary>
+txt_stffbcour control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.txt_stffbdept">
+	<summary>
+txt_stffbdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.lbl_stfvchoose">
+	<summary>
+lbl_stfvchoose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.radio_stfvchoice">
+	<summary>
+radio_stfvchoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.panel_stafffeedview">
+	<summary>
+panel_stafffeedview control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffview.grd_sftfb">
+	<summary>
+grd_sftfb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminlogout.panel_adminlogout">
+	<summary>
+panel_adminlogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.adminlogout.lbl_adminlogoutmsg">
+	<summary>
+lbl_adminlogoutmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.panel_staffcontainer">
+	<summary>
+panel_staffcontainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.panel_staffseshead">
+	<summary>
+panel_staffseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.panel_staffdetails">
+	<summary>
+panel_staffdetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffseshead">
+	<summary>
+lbl_staffseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_stuhead">
+	<summary>
+lbl_stuhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffname">
+	<summary>
+lbl_staffname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_dept">
+	<summary>
+lbl_dept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffname">
+	<summary>
+txt_staffname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffdept">
+	<summary>
+txt_staffdept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffgender">
+	<summary>
+lbl_staffgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffmbl">
+	<summary>
+lbl_staffmbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffgender">
+	<summary>
+txt_staffgender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffmbl">
+	<summary>
+txt_staffmbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffdoj">
+	<summary>
+lbl_staffdoj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffdesi">
+	<summary>
+lbl_staffdesi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffdoj">
+	<summary>
+txt_staffdoj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffdesi">
+	<summary>
+txt_staffdesi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.lbl_staffexp">
+	<summary>
+lbl_staffexp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.staffhome.txt_staffexp">
+	<summary>
+txt_staffexp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_Master.sfbs_masterhead">
+	<summary>
+sfbs_masterhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_Master.sfbs_masterform">
+	<summary>
+sfbs_masterform control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_Master.sfbs_masterclg">
+	<summary>
+sfbs_masterclg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_Master.sfbs_mastertitle">
+	<summary>
+sfbs_mastertitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.SFBS_Master.sfbs_mastercontent">
+	<summary>
+sfbs_mastercontent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.panel_stucontainer">
+	<summary>
+panel_stucontainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.panel_stufeedsession">
+	<summary>
+panel_stufeedsession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_stufeedseshead">
+	<summary>
+lbl_stufeedseshead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.panel_stufeedback">
+	<summary>
+panel_stufeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_stufeedhead">
+	<summary>
+lbl_stufeedhead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_studentRegno">
+	<summary>
+lbl_studentRegno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_studentName">
+	<summary>
+lbl_studentName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_studentYear">
+	<summary>
+lbl_studentYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_studFBRegno">
+	<summary>
+txt_studFBRegno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_studFBName">
+	<summary>
+txt_studFBName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_studFBYear">
+	<summary>
+txt_studFBYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_studenthead2">
+	<summary>
+lbl_studenthead2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_staffselect">
+	<summary>
+lbl_staffselect control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.ddl_stafflistFB">
+	<summary>
+ddl_stafflistFB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_namechkmsg">
+	<summary>
+lbl_namechkmsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.panel_feedbackstaff">
+	<summary>
+panel_feedbackstaff control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_studenthead3">
+	<summary>
+lbl_studenthead3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_staffName">
+	<summary>
+lbl_staffName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_staffCourse">
+	<summary>
+lbl_staffCourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_staffDept">
+	<summary>
+lbl_staffDept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_staffName">
+	<summary>
+txt_staffName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_staffCourse">
+	<summary>
+txt_staffCourse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.txt_staffDept">
+	<summary>
+txt_staffDept control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_feedQues1">
+	<summary>
+lbl_feedQues1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.radio_feedans1">
+	<summary>
+radio_feedans1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.valid_option1">
+	<summary>
+valid_option1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_feedQues2">
+	<summary>
+lbl_feedQues2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.radio_feedans2">
+	<summary>
+radio_feedans2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.valid_option2">
+	<summary>
+valid_option2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_feedQues3">
+	<summary>
+lbl_feedQues3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.radio_feedans3">
+	<summary>
+radio_feedans3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.valid_option3">
+	<summary>
+valid_option3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_feedQues4">
+	<summary>
+lbl_feedQues4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.radio_feedans4">
+	<summary>
+radio_feedans4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.valid_option4">
+	<summary>
+valid_option4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.lbl_feedQues5">
+	<summary>
+lbl_feedQues5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.radio_feedans5">
+	<summary>
+radio_feedans5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.valid_option5">
+	<summary>
+valid_option5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.studentfeedback.btn_feedsubmit">
+	<summary>
+btn_feedsubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.MasterPageScriptManager">
+	<summary>
+MasterPageScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.HeadLoginView">
+	<summary>
+HeadLoginView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.HeadHomeLink">
+	<summary>
+HeadHomeLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.HeadAboutLink">
+	<summary>
+HeadAboutLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SFBS.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
